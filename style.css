@@ -23,7 +23,7 @@ header{
 .logo{
     font-size: 28px;
     font-weight: bold;
-    color: rgb(16, 15, 15);
+    color: yellow;
 }
 
 /* Navbar */
@@ -38,7 +38,7 @@ nav a{
 }
 
 nav a:hover{
-    color: white;
+    color: rgb(255, 255, 255);
 }
 
 /* Hero */
